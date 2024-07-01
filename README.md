@@ -14,7 +14,9 @@ Audify is a platform designed to categorize and display various podcast content 
 - **Rating:** Ability to rate podcasts.
 - **Watch Podcasts:** Ability to watch podcasts on-site.
 
+## Organization 
 
+ [Organization](https://github.com/AbedAlmajed/Audify-Project)
 
 ## Tools Used
 
@@ -26,5 +28,5 @@ Audify is a platform designed to categorize and display various podcast content 
 
 ## Live Demos
 
-- [Live Demo 1](https://abedalmajed.github.io/Audify-Project/)
+- [Live Demo 1]([https://abedalmajed.github.io/Audify-Project/](https://muhammad-shurrab.github.io/Audify-Project/))
 
